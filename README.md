@@ -1,0 +1,1 @@
+The project will scan a messy folder and automatically sort files into subfolders based on their extensions
